@@ -14,7 +14,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;5Jsi2CKJ#5Db8W8QF1KGRbH0gDNeHvT2_tVEQI-v6kDiO1x3Mbx8"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": " only_group"
         }
     },
     "buildpacks": [
