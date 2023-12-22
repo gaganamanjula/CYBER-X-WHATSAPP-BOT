@@ -14,7 +14,7 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "cyber-x@;;;5Jsi2CKJ#5Db8W8QF1KGRbH0gDNeHvT2_tVEQI-v6kDiO1x3Mbx8"
+            "value": ""
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
